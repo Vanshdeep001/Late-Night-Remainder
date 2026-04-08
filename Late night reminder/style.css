@@ -8,24 +8,24 @@
 /* Background */
 body {
   min-height: 100vh;
-  background: radial-gradient(circle at top, #1e293b, #020617);
+  background: radial-gradient(circle at top, #1e293b, #df0707);
   font-family: 'Segoe UI', sans-serif;
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #e5e7eb;
+  color: #0d883c;
 }
 
 /* App container */
 .app-container {
   width: 100%;
   max-width: 420px;
-  padding: 20px;
+  padding: 78px;
 }
 
 /* Card */
 .app-card {
-  background: rgba(15, 23, 42, 0.9);
+  background: rgba(215, 201, 6, 0.9);
   border-radius: 20px;
   padding: 25px;
   box-shadow: 0 0 40px rgba(99, 102, 241, 0.15);
